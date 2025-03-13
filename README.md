@@ -56,6 +56,14 @@ print(f"predicted value: {pre}")
 ## data
 ![image](https://github.com/user-attachments/assets/0d90d2fa-710a-4801-8011-9f023540ad86)
 
+## value of x
+![image](https://github.com/user-attachments/assets/a589dc83-b93e-4432-b3bb-430a387cd9de)
+
+## value of x1_scaled
+![image](https://github.com/user-attachments/assets/5b42660f-d3f4-4afa-9874-12a8672167ab)
+## predicted value
+![image](https://github.com/user-attachments/assets/c41a810e-ad22-4572-b486-c33b156da857)
+
 
 
 
