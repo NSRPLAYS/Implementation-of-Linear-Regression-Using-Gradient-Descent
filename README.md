@@ -53,7 +53,7 @@ print(f"predicted value: {pre}")
 ```
 
 ## Output:
-##data
+## data
 ![image](https://github.com/user-attachments/assets/0d90d2fa-710a-4801-8011-9f023540ad86)
 
 
